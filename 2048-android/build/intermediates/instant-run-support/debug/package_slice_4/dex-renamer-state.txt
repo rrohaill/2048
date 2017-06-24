@@ -1,0 +1,4 @@
+#Thu Jun 22 20:02:33 CEST 2017
+base.0=F\:\\Projects\\myWork\\Github\\2048-android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=F\:\\Projects\\myWork\\Github\\2048-android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

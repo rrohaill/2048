@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:3:5-44
+	android:versionName
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:5:5-32
+		INJECTED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml
+		INJECTED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml
+		INJECTED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rohail\.android\build-cache\ac4de1e5b9ca9ba16dd4251aaab82037259ff1a2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rohail\.android\build-cache\a48961d972271d7d26aa209516fe2151d1bdeda7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rohail\.android\build-cache\ac6a44df2aded7f47cec92709b9b9c2cf05db687\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.4] C:\Users\Rohail\.android\build-cache\35b8f82b6d9e565de3987cf26f38dd924ef2648c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\Rohail\.android\build-cache\e9f7453fa6c2197d16cc04f4906574c529ff8279\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Rohail\.android\build-cache\7cc0031ce837fa447ddfc5fd978d764b098e33b3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Rohail\.android\build-cache\6bd5c2c3df9cd6e708dc988212c083d8dbeb05b0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\Rohail\.android\build-cache\e78c376626ff11c97bc58b165399cf8d436d773a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Rohail\.android\build-cache\4c66ce0edace8e9f3e84cb9d8501aedc1935310f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rohail\.android\build-cache\478501aeee5e5c8fc3665da5ff6d788874b31ea9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rohail\.android\build-cache\37cecb3c828096fd97109bd0bead75a924847807\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rohail\.android\build-cache\624c922daf1fc657aa892f3a504140e42ab483b8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rohail\.android\build-cache\38299db483a68d02a32b1c0dfa46bd877c032c3c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rohail\.android\build-cache\02bdf66c5f5cfb0937b2090f32da979b87a29d6f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rohail\.android\build-cache\29e11b7a075f734b2815257ca5e159802663c2e4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] C:\Users\Rohail\.android\build-cache\c1651febc5d1c0d5c0c658c8721f92a68105e987\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rohail\.android\build-cache\ac4de1e5b9ca9ba16dd4251aaab82037259ff1a2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:8:9-35
+application
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:11:5-38:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rohail\.android\build-cache\ac4de1e5b9ca9ba16dd4251aaab82037259ff1a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rohail\.android\build-cache\a48961d972271d7d26aa209516fe2151d1bdeda7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rohail\.android\build-cache\ac6a44df2aded7f47cec92709b9b9c2cf05db687\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\Rohail\.android\build-cache\e9f7453fa6c2197d16cc04f4906574c529ff8279\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Rohail\.android\build-cache\7cc0031ce837fa447ddfc5fd978d764b098e33b3\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Rohail\.android\build-cache\6bd5c2c3df9cd6e708dc988212c083d8dbeb05b0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\Rohail\.android\build-cache\e78c376626ff11c97bc58b165399cf8d436d773a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Rohail\.android\build-cache\4c66ce0edace8e9f3e84cb9d8501aedc1935310f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rohail\.android\build-cache\478501aeee5e5c8fc3665da5ff6d788874b31ea9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rohail\.android\build-cache\37cecb3c828096fd97109bd0bead75a924847807\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rohail\.android\build-cache\624c922daf1fc657aa892f3a504140e42ab483b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rohail\.android\build-cache\38299db483a68d02a32b1c0dfa46bd877c032c3c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rohail\.android\build-cache\02bdf66c5f5cfb0937b2090f32da979b87a29d6f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rohail\.android\build-cache\29e11b7a075f734b2815257ca5e159802663c2e4\output\AndroidManifest.xml:29:5-20
+MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] C:\Users\Rohail\.android\build-cache\c1651febc5d1c0d5c0c658c8721f92a68105e987\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:15:9-40
+activity#com.game.beyondinfinity.a2048.SplashActivity
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:18:9-30:20
+	android:screenOrientation
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:21:13-49
+	android:configChanges
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:20:13-74
+	android:theme
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:22:13-71
+	android:name
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:19:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:27:27-74
+activity#com.game.beyondinfinity.a2048.MainActivity
+ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:31:9-36:68
+	android:screenOrientation
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:34:13-45
+	android:configChanges
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from F:\Projects\myWork\Github\2048-android\AndroidManifest.xml:32:13-41
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rohail\.android\build-cache\ac4de1e5b9ca9ba16dd4251aaab82037259ff1a2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rohail\.android\build-cache\a48961d972271d7d26aa209516fe2151d1bdeda7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rohail\.android\build-cache\ac6a44df2aded7f47cec92709b9b9c2cf05db687\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rohail\.android\build-cache\478501aeee5e5c8fc3665da5ff6d788874b31ea9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rohail\.android\build-cache\37cecb3c828096fd97109bd0bead75a924847807\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rohail\.android\build-cache\624c922daf1fc657aa892f3a504140e42ab483b8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rohail\.android\build-cache\38299db483a68d02a32b1c0dfa46bd877c032c3c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rohail\.android\build-cache\02bdf66c5f5cfb0937b2090f32da979b87a29d6f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rohail\.android\build-cache\29e11b7a075f734b2815257ca5e159802663c2e4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rohail\.android\build-cache\ac4de1e5b9ca9ba16dd4251aaab82037259ff1a2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rohail\.android\build-cache\ac4de1e5b9ca9ba16dd4251aaab82037259ff1a2\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Rohail\.android\build-cache\780badd00027327f18c380ef54e0be1d81577bed\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Rohail\.android\build-cache\7cc0031ce837fa447ddfc5fd978d764b098e33b3\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Rohail\.android\build-cache\7cc0031ce837fa447ddfc5fd978d764b098e33b3\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Rohail\.android\build-cache\7cc0031ce837fa447ddfc5fd978d764b098e33b3\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Rohail\.android\build-cache\7cc0031ce837fa447ddfc5fd978d764b098e33b3\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Rohail\.android\build-cache\4c66ce0edace8e9f3e84cb9d8501aedc1935310f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Rohail\.android\build-cache\4c66ce0edace8e9f3e84cb9d8501aedc1935310f\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Rohail\.android\build-cache\4c66ce0edace8e9f3e84cb9d8501aedc1935310f\output\AndroidManifest.xml:20:20-65

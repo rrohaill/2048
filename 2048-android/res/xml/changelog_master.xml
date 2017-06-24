@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.0.0" versioncode="2">
+        <change>Added German, Greek, Esperanto, Dutch, French, Spanish, Polish, Serbian translations.</change>
+        <change>Added experimental night mode button</change>
+        <change>Minor optimizations to responsiveness</change>
+        <change>Added undo button</change>
+        <change>Limit undo button to last 50 states to avoid using too much memory.</change>
+    </release>
+</changelog>

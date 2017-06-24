@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Projects\myWork\Github\2048-android\src\main\shaders"/></dataSet><dataSet config="release"><source path="F:\Projects\myWork\Github\2048-android\build-types\release\shaders"/></dataSet></merger>
